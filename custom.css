@@ -1,0 +1,36 @@
+.section-promotion {
+height:750px;
+}
+
+.section-promotion .section-promotion__list {
+height:750px;
+}
+
+.section-promotion .section-promotion__list ul li {
+top:-60px;
+height:750px;
+}
+
+.section-promotion .section-promotion__list ul li .bg {
+
+height:750px !important;
+}
+
+@media screen and (max-width: 1024px){
+.section-promotion {
+height:250px;
+}
+
+.section-promotion .section-promotion__list {
+height:250px;
+}
+
+.section-promotion .section-promotion__list ul li {
+top:40px;
+height:250px;
+}
+
+.section-promotion .section-promotion__list ul li .bg {
+height:250px !important;
+}
+}
